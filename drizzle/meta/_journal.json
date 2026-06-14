@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1777060372552,
+      "tag": "0000_jazzy_chameleon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1777126589078,
+      "tag": "0001_dazzling_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1777149192208,
+      "tag": "0002_supreme_black_crow",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1779032196915,
+      "tag": "0003_charming_sumo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1779638400000,
+      "tag": "0004_dhikr_completion_log",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1779811200000,
+      "tag": "0005_dhikr_time_log",
+      "breakpoints": true
+    }
+  ]
+}

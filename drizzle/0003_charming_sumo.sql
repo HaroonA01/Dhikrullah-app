@@ -1,0 +1,1 @@
+ALTER TABLE `daily_stats` ADD `dhikrs_completed` integer DEFAULT 0 NOT NULL;

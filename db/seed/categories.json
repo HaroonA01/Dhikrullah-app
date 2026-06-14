@@ -1,0 +1,13 @@
+[
+  { "id": "all_day", "label": "All Day", "sortOrder": 0 },
+  { "id": "fajr", "label": "Fajr", "sortOrder": 1 },
+  { "id": "morning", "label": "Morning", "sortOrder": 2 },
+  { "id": "waking_up", "label": "Waking Up", "sortOrder": 3 },
+  { "id": "dhuhr", "label": "Dhuhr", "sortOrder": 4 },
+  { "id": "asr", "label": "Asr", "sortOrder": 5 },
+  { "id": "evening", "label": "Evening", "sortOrder": 6 },
+  { "id": "maghrib", "label": "Maghrib", "sortOrder": 7 },
+  { "id": "isha", "label": "Isha", "sortOrder": 8 },
+  { "id": "witr", "label": "Witr", "sortOrder": 9 },
+  { "id": "before_bed", "label": "Before Bed", "sortOrder": 10 }
+]
