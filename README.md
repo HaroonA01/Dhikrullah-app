@@ -11,6 +11,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-A78BFA.svg)](LICENSE)
 
+<br />
+
+![Dhikrullah](docs/banner.png)
+
 </div>
 
 ---
@@ -45,11 +49,9 @@ one tap away at the right moment of the day.
 
 ## 📱 Screenshots
 
-> _Add screenshots here._
-
-| Home | Counter | Themes | Settings |
-| :--: | :-----: | :----: | :------: |
-| _coming soon_ | _coming soon_ | _coming soon_ | _coming soon_ |
+| Home | Categories | Dhikr | Stats | Themes |
+| :--: | :--------: | :---: | :---: | :----: |
+| ![Home](docs/screenshots/home.png) | ![Categories](docs/screenshots/categories.png) | ![Dhikr](docs/screenshots/dhikr.png) | ![Stats](docs/screenshots/stats.png) | ![Themes](docs/screenshots/themes.png) |
 
 ## 🛠 Tech Stack
 
